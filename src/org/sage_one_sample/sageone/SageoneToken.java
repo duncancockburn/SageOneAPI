@@ -24,6 +24,7 @@ import org.json.JSONObject;
  * Servlet implementation class AccessToken
  */
 @WebServlet("/SageoneToken")
+
 public class SageoneToken extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
